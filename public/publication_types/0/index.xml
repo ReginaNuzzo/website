@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Regina Nuzzo</title>
+    <link>http://localhost:1313/academia/site/publication_types/0/</link>
+    <description>Recent content in 0 on Regina Nuzzo</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Regina Nuzzo {year}</copyright>
+    <lastBuildDate>Fri, 12 Oct 2018 12:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/academia/site/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When courtroom science goes wrong — and how stats can fix it</title>
+      <link>http://localhost:1313/academia/site/publication/comic/</link>
+      <pubDate>Fri, 12 Oct 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/publication/comic/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips for Communicating Statistical Significance</title>
+      <link>http://localhost:1313/academia/site/publication/nihtips/</link>
+      <pubDate>Mon, 01 Oct 2018 15:06:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/publication/nihtips/</guid>
+      <description>&lt;p&gt;An invited perspective piece. &lt;a href=&#34;https://www.nih.gov/about-nih/what-we-do/science-health-public-trust/perspectives/science-health-public-trust/tips-communicating-statistical-significance&#34;&gt;Read the full article here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theodore Anderson, mathematician who advanced data analysis, dies at 98.</title>
+      <link>http://localhost:1313/academia/site/publication/nuzzo-2016-theodore/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/publication/nuzzo-2016-theodore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2016/10/10/us/theodore-anderson-mathematician-who-advanced-data-analysis-dies-at-98.html&#34;&gt;Read it here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

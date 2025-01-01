@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regina Nuzzo</title>
+    <link>http://localhost:1313/academia/site/</link>
+    <description>Recent content on Regina Nuzzo</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Regina Nuzzo {year}</copyright>
+    <lastBuildDate>Tue, 15 Mar 2022 12:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/academia/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/academia/site/talk/</link>
+      <pubDate>Tue, 15 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/academia/site/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/academia/site/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://localhost:1313/academia/site/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/academia/site/publication/</link>
+      <pubDate>Fri, 12 Oct 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/academia/site/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Complete List of Publications</title>
+      <link>http://localhost:1313/academia/site/more-writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/more-writing/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Warning: Online publication moves fast. Some links might be broken.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=spEIyDMAAAAJ&amp;amp;hl=en&amp;amp;oi=sra&#34;&gt;Google Scholar profile&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data-probability-and-statistics&#34;&gt;Data, probability, and statistics&lt;/h2&gt;
+&lt;h3 id=&#34;general-audience&#34;&gt;general audience&lt;/h3&gt;
+&lt;p&gt;Nuzzo, Regina, &amp;ldquo;Uncertainty,&amp;rdquo; in &lt;em&gt;30-Second Data Science&lt;/em&gt;, Ivy Press, 2020.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.knowablemagazine.org/article/society/2018/when-courtroom-science-goes-wrong-and-how-stats-can-fix-it&#34;&gt;“When courtroom science goes wrong &amp;mdash; and how stats can fix it.”&lt;/a&gt; Comics. &lt;em&gt;Knowable Magazine&lt;/em&gt;, October 2018. (with artist Maki Naro)&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nytimes.com/2016/10/10/us/theodore-anderson-mathematician-who-advanced-data-analysis-dies-at-98.html&#34;&gt;“Theodore Anderson, mathematician who advanced data analysis, dies at 98.”&lt;/a&gt; Obituaries. &lt;em&gt;New York Times&lt;/em&gt;, October 9, 2016.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nih.gov/about-nih/what-we-do/science-health-public-trust/perspectives/science-health-public-trust/tips-communicating-statistical-significance&#34;&gt;“Tips for Communicating Statistical Significance.”&lt;/a&gt; Science, Health, and Public Trust, National Institutes of Health, November 2018.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517&#34;&gt;“How scientists fool themselves &amp;ndash; and how they can stop.&amp;quot;&lt;/a&gt;  News Features. &lt;em&gt;Nature&lt;/em&gt;, October 7, 2015.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tools-to-sift-research-fudge-from-fact/&#34;&gt;“Scientists Perturbed by Loss of Stat Tools to Sift Research Fudge from Fact.”&lt;/a&gt; The Sciences. &lt;em&gt;Scientific American&lt;/em&gt;, April 16, 2015.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.newscientist.com/article/mg22530121-200-chance-peace-talks-in-the-probability-wars/&#34;&gt;“Chance: Peace talks in the probability Wars.”&lt;/a&gt; &lt;em&gt;New Scientist&lt;/em&gt;, Physics Features. March 2015.&lt;/p&gt;
+&lt;p&gt;Van Noorden, Richard, Brendan Maher, and Regina Nuzzo. &lt;a href=&#34;https://www.nature.com/news/the-top-100-papers-1.16224&#34;&gt;&amp;ldquo;The top 100 papers.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Nature News&lt;/em&gt; 514, no. 7524 (2014): 550.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.scientificamerican.com/article/the-future-of-election-forecasting/&#34;&gt;“The Future of Election Forecasting.”&lt;/a&gt; The Sciences. &lt;em&gt;Scientific American&lt;/em&gt;, November 1, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/scientific-method-statistical-errors-1.14700&#34;&gt;“Scientific Method: Statistical Errors.”&lt;/a&gt; News Features. &lt;em&gt;Nature&lt;/em&gt;, February 12, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1002/scin.2008.5591731920&#34;&gt;“Nabbing Suspicious SNPs.”&lt;/a&gt; Features: Biomedicine, Genes &amp;amp; Cells. &lt;em&gt;Science News&lt;/em&gt;, June 21, 2008, Vol. 173, Issue No.19.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “Seeing the Pattern.” Profiles. &lt;em&gt;CR Magazine&lt;/em&gt;, Spring 2008, Vol. No. 3, Issue No. 2.&lt;/p&gt;
+&lt;h3 id=&#34;trade-press-and-scientific-journals&#34;&gt;trade press and scientific journals&lt;/h3&gt;
+&lt;p&gt;Nuzzo RL. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12761&#34;&gt;Communicating measures of relative risk in plain English.&lt;/a&gt; PM&amp;amp;R. 2022; 14(2): 283-287. doi:10.1002/pmrj.12761&lt;/p&gt;
+&lt;p&gt;Nuzzo RL. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12593&#34;&gt;Mosaic plots for displaying and exploring categorical data.&lt;/a&gt;PM&amp;amp;R. 2021; 13: 531–534. &lt;a href=&#34;https://doi.org/10.1002/pmrj.12593&#34;&gt;https://doi.org/10.1002/pmrj.12593&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nuzzo, R.L. (2021), &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12476&#34;&gt;Post hoc Power.&lt;/a&gt; PM&amp;amp;R, 13: 422-424. &lt;a href=&#34;https://doi.org/10.1002/pmrj.12476&#34;&gt;https://doi.org/10.1002/pmrj.12476&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nuzzo, R.L. (2020), &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pmrj.12350&#34;&gt;Principles for Writing about Quantitative Research.&lt;/a&gt; Journal of Injury, Function and Rehabilitation, 12: 420-422. &lt;a href=&#34;https://doi.org/10.1002/pmrj.12350&#34;&gt;https://doi.org/10.1002/pmrj.12350&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nuzzo, R.L. (2019), &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pmrj.12228&#34;&gt;Making Continuous Measurements into Dichotomous Variables.&lt;/a&gt; Journal of Injury, Function and Rehabilitation, 11: 1132-1134. &lt;a href=&#34;https://doi.org/10.1002/pmrj.12228&#34;&gt;https://doi.org/10.1002/pmrj.12228&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nuzzo, R.L. (2019), &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/pmrj.12145&#34;&gt;Histograms: A Useful Data Analysis Visualization.&lt;/a&gt; Journal of Injury, Function and Rehabilitation, 11: 309-312. &lt;a href=&#34;https://doi.org/10.1002/pmrj.12145&#34;&gt;https://doi.org/10.1002/pmrj.12145&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina L. &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S193414821830234X&#34;&gt;“Percent Differences: Another Look.”&lt;/a&gt; &lt;em&gt;Physical Medicine &amp;amp; Rehabilitation&lt;/em&gt; 10, no. 6 (2018): 661-664&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina L. &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1934148217314132&#34;&gt;&amp;ldquo;An Introduction to Bayesian Data Analysis for Correlations.&amp;rdquo;&lt;/a&gt; (2017): 1278-1282.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina L. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.pmrj.2017.02.001&#34;&gt;&amp;ldquo;Randomization Test: An Alternative Analysis for the Difference of Two Means.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Physical Medicine &amp;amp; Rehabilitation&lt;/em&gt; 9, no. 3 (2017): 306-310.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina L. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1016/j.pmrj.2016.08.004&#34;&gt;&amp;ldquo;Statistical power.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Physical Medicine &amp;amp; Rehabilitation&lt;/em&gt; 8, no. 9 (2016): 907-912.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina L. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.pmrj.2016.02.001&#34;&gt;&amp;ldquo;The box plots alternative for visualizing quantitative data.&amp;rdquo;&lt;/a&gt;&lt;em&gt;Physical Medicine &amp;amp; Rehabilitation&lt;/em&gt; 8, no. 3 (2016): 268-272.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina L. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.pmrj.2015.02.011&#34;&gt;&amp;ldquo;The inverse fallacy and interpreting P values.”&lt;/a&gt;&lt;em&gt;Physical Medicine &amp;amp; Rehabilitation&lt;/em&gt; 7, no. 3 (2015): 311-314.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCR-Fall-2008.pdf&#34;&gt;“The Golden Age of Public Databases: Speeding Biomedical Discovery.”&lt;/a&gt; Features. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, Fall 2008, Vol. 4, Issue No. 4.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCR-Spring-2008.pdf&#34;&gt;“On Simulating Growth and Form.”&lt;/a&gt; Features. Biomedical Computation Review, Spring 2008, Vol. 4, Issue No. 2.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCR-Fall-2007.pdf&#34;&gt;“Computing the Ravages of Time: Using algorithms to analyze Alzheimer’s Disease.”&lt;/a&gt; Features. Biomedical Computation Review, vol. 3 issue 3, Fall 2007.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCR-Winter-2006-2007.pdf&#34;&gt;“Parsing PubMed.”&lt;/a&gt; News Bytes. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, vol. 3 issue 1, Winter 2006/2007.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCR-Winter-2006-2007.pdf&#34;&gt;“Computational biomechanics: taking strides toward patient care,”&lt;/a&gt; Features. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, vol. 3 issue 1, Winter 2006/2007.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://biomedicalcomputationreview.org/content/brain-chips&#34;&gt;“Brain Chips.”&lt;/a&gt; News Bytes. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, vol. 2 issue 4, Fall 2006.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCR-Fall-2006.pdf&#34;&gt;“Neurocomputation of Music, Faces, and Belly Laughs.”&lt;/a&gt; News Bytes. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, vol. 2 issue 4, Fall 2006.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/26/9753&#34;&gt;&amp;ldquo;Profile of William D. Nordhaus.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103 no. 26 (2006): 9753-9755.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/21/7945&#34;&gt;&amp;ldquo;Profile of Giorgio Parisi.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103, no. 21 (2006): 7945-7947.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/20/7539&#34;&gt;&amp;ldquo;Profile of David W. McLaughlin.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103, no. 20 (2006): 7539-7541.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/6/1672&#34;&gt;&amp;ldquo;Profile of George Oster.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;  103, no. 6 (2006): 1672-1674.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/44/15725&#34;&gt;&amp;ldquo;Profile of Stephen H. Schneider.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 44 (2005): 15725-15727.&lt;/p&gt;
+&lt;h2 id=&#34;other-science-topics&#34;&gt;Other Science Topics&lt;/h2&gt;
+&lt;h3 id=&#34;general-audience-1&#34;&gt;general audience&lt;/h3&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.rd.com/health/healthcare/scientists-self-experiment/&#34;&gt;“What happens when scientists experiment on themselves?”&lt;/a&gt; Health Features. &lt;em&gt;Reader’s Digest&lt;/em&gt;, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.espn.com/horse-racing/story/%5C_/id/10973676/science-california-chrome-nasal-strip-espn-magazine&#34;&gt;“Straight from the horse’s nose.”&lt;/a&gt; Science. &lt;em&gt;ESPN the Magazine&lt;/em&gt;, May 28, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/articles/509403e&#34;&gt;&amp;ldquo;Family history wins gene debate.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Nature&lt;/em&gt; 509, no. 7501 (2014): 403.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/regrown-nerves-boost-bionic-ears-1.15082&#34;&gt;&amp;ldquo;Regrown nerves boost bionic ears.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Nature&lt;/em&gt;, April 23, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/female-insect-uses-spiky-penis-to-take-charge-1.15064&#34;&gt;“Female insect uses spiky penis to take charge”&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt;, April 17, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/the-best-time-to-wage-cyberwar-1.14502&#34;&gt;“The best time to wage cyberwar.”&lt;/a&gt; &lt;em&gt;Nature&lt;/em&gt;, January 13, 2014.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/newlyweds-gut-feelings-predict-marital-happiness-1.14261&#34;&gt;“Newlyweds’ gut feelings predict marital happiness.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, November 28, 2013.
+Nuzzo, Regina. &lt;a href=&#34;https://www.amazon.com/TIME-Secrets-Genius-Discovering-brilliance/dp/1618930842&#34;&gt;“And . . . They’re Off!”&lt;/a&gt; Child prodigies. &lt;em&gt;TIME’S Secrets of Genius: Discovering the Nature of Brilliance&lt;/em&gt;, October 2013&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.cancertodaymag.org/Pages/Summer2013/Vernal-Branch-Cancer-Survivor-Advocate.aspx&#34;&gt;“Standing Strong.”&lt;/a&gt; Profiles. &lt;em&gt;Cancer Today&lt;/em&gt;, Summer, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/online-daters-do-better-in-the-marriage-stakes-1.13120&#34;&gt;“Online daters do better in the marriage stakes.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, June 3, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.rd.com/health/conditions/health-news-creepy-creatures-fight-disease-infection-and-more/&#34;&gt;“Creepy Creatures Fight Disease, Infection, and More.”&lt;/a&gt; Health News. &lt;em&gt;Reader’s Digest&lt;/em&gt;, May, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.amazon.com/Your-Body-Science-Keeping-Healthy/dp/1618930834&#34;&gt;“Can Posture Change Your Mind?”&lt;/a&gt; Embodied Cognition. &lt;em&gt;TIME’s Your Body: The Science of Keeping It Healthy&lt;/em&gt;, May 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/bigger-not-always-better-for-penis-size-1.12770&#34;&gt;“Bigger not always better for penis size.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, April 8, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/brain-scans-predict-which-criminals-are-more-likely-to-reoffend-1.12672&#34;&gt;“Brain scans predict which criminals are more likely to reoffend.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, March 25, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.amazon.com/TIME-Magazine-Guide-Healthy-Food/dp/B00BWVMMGG&#34;&gt;“What to Put On Your Fork.”&lt;/a&gt; &lt;em&gt;TIME’s What to Eat Now: Your Guide to Good, Healthy Food&lt;/em&gt;, March 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/babies-brains-may-be-tuned-to-language-before-birth-1.12489&#34;&gt;“Babies’ brains may be tuned to language before birth.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, February 25, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/why-tongue-twisters-are-hard-to-say-1.12471&#34;&gt;“Why tongue twisters are hard to say.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, February 20, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.nature.com/news/adults-with-dyslexia-improve-when-pushed-to-read-faster-1.12420&#34;&gt;“Adults with dyslexia improve when pushed to read faster.”&lt;/a&gt; News. &lt;em&gt;Nature&lt;/em&gt;, February 12, 2013.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.rd.com/health/wellness/how-old-are-you-really/&#34;&gt;“How Old Are You, Really? Telomeres Explained”&lt;/a&gt; Health. &lt;em&gt;Reader’s Digest Magazine&lt;/em&gt;, September 2011.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2011/jul/25/health/la-he-mating-ideal-partner-20110725&#34;&gt;“Rose-colored glasses may help love last.”&lt;/a&gt; Health: The mating game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, July 25, 2011.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.scientificamerican.com/article/good-vibrations-us-consumer-web-site-aims-to-enhance-sex-toy-safety/&#34;&gt;“Good Vibrations: U.S. Consumer Web Site Aims to Enhance Sex Toy Safety.”&lt;/a&gt; Health Features. &lt;em&gt;Scientific American&lt;/em&gt;, May 24, 2011.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2011/may/23/health/la-he-ok-cupid-20110523&#34;&gt;“Online dating secrets, as revealed by math majors.”&lt;/a&gt; Health: The Mating Game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, May 23, 2011.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/SpringSummer2010/Pages/NewCancerScreeningGuidelines.aspx&#34;&gt;“Cancer Screening Conundrum: Overdiagnosis can lead to unnecessary and risky treatment.”&lt;/a&gt; Features. &lt;em&gt;CR Magazine&lt;/em&gt;, Spring/Summer 2010, Vol. 5, Issue No. 2.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/Winter2010/Pages/LivingLonger.aspx&#34;&gt;“Living Longer.”&lt;/a&gt; News. &lt;em&gt;CR Magazine&lt;/em&gt;, Winter 2009, Vol. 5, Issue No. 1.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/Fall2009/Pages/AzizaShadPediatricOncologist.aspx&#34;&gt;“A Doctor’s Devotion.”&lt;/a&gt; Features. &lt;em&gt;CR Magazine&lt;/em&gt;, Fall 2009, Vol. 4, Issue No. 4.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2009/aug/03/health/he-depression-stopping-drugs3&#34;&gt;“Stopping antidepressants can cause side effects.”&lt;/a&gt; Health News. &lt;em&gt;Los Angeles Times&lt;/em&gt;, August 3, 2009.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/winter2009/Pages/KaraintheKitchen.aspx&#34;&gt;“Kara in the Kitchen.”&lt;/a&gt; Childhood Cancer: Features. &lt;em&gt;CR Magazine&lt;/em&gt;, Winter 2008/09, Vol. No. 4, Issue No. 1.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.latimes.com/health/la-he-mating8-2008dec08-story.html&#34;&gt;“Vying for a soul mate? Psych out the competition with science.”&lt;/a&gt; Health: Features. &lt;em&gt;Los Angeles Times&lt;/em&gt;, December 8, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.latimes.com/health/la-he-mating17-2008nov17-story.html&#34;&gt;“Older adults’ sexual desires don’t have to fade.”&lt;/a&gt; Health: The Mating Game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, November 17, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.latimes.com/health/la-he-mating15-2008sep15-story.html&#34;&gt;“Love and infidelity.”&lt;/a&gt; Health: The Mating Game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, September 15, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/fall2008/Pages/GeneticProfiling.aspx&#34;&gt;“Genetic Profiling,”&lt;/a&gt; News. &lt;em&gt;CR Magazine&lt;/em&gt;, Fall 2008, Vol. No. 3, Issue No. 5.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2008/aug/18/health/he-mating18&#34;&gt;“Use it or lose it: yes, it’s true.”&lt;/a&gt; Health: The Mating Game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, August 18, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2008/jul/21/health/he-mating21&#34;&gt;&amp;ldquo;Mapping the way to G-spot utopia.”&lt;/a&gt; Health: The Mating Game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, July 21, 2008.&lt;/p&gt;
+&lt;p&gt;uzzo, Regina. &lt;a href=&#34;http://www.latimes.com/health/la-he-sex16-2008jun16-story.html&#34;&gt;“What does gay look like? Science keeps trying to figure that out.”&lt;/a&gt; Health News. &lt;em&gt;Los Angeles Times&lt;/em&gt;, June 16, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2008/jun/02/health/he-fatcell2&#34;&gt;“Fat cells: where the action is.”&lt;/a&gt; Health News. &lt;em&gt;Los Angeles Times&lt;/em&gt;, June 2, 2008&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.latimes.com/health/la-he-sex19-2008may19-story.html&#34;&gt;“Do I smell sexy?”&lt;/a&gt; Health: The Mating Game column feature. &lt;em&gt;Los Angeles Times&lt;/em&gt;, May 19, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2008/mar/10/health/he-dietbooks10&#34;&gt;“Diet books, pound for pound.”&lt;/a&gt; Health: Features. &lt;em&gt;Los Angeles Times&lt;/em&gt;, March 10, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.latimes.com/health/la-he-orgasm11feb11-story.html&#34;&gt;“Science of the orgasm.”&lt;/a&gt; Health: Features. &lt;em&gt;Los Angeles Times&lt;/em&gt;, February 11, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2008/mar/10/health/he-dietbooks10&#34;&gt;&amp;ldquo;Call him Doctor Orgasmatron.&amp;rdquo;&lt;/a&gt; Health. &lt;em&gt;Los Angeles Times&lt;/em&gt;, Februrary 11, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.latimes.com/health/la-hew-ordistance11feb11-story.html&#34;&gt;&amp;ldquo;Female orgasms and a &amp;lsquo;rule of thumb.&amp;rsquo;&amp;rdquo;&lt;/a&gt; Health. &lt;em&gt;Los Angeles Times&lt;/em&gt;, February 11, 2008.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/Fall2007/Pages/NewCluestoHereditaryBreastCancer.aspx&#34;&gt;“New Clues to Hereditary Breast Cancer.”&lt;/a&gt; News. &lt;em&gt;CR Magazine&lt;/em&gt;, Fall 2007.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;https://www.crmagazine.org/archive/Summer2007/Pages/FlawedDesign.aspx&#34;&gt;“Flawed Design: Are clinical trials failing promising drugs?”&lt;/a&gt; News. &lt;em&gt;CR Magazine&lt;/em&gt;, Summer 2007.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2007/mar/12/health/he-walking12&#34;&gt;“Walking: It’s good for everything.”&lt;/a&gt; Health: Features. &lt;em&gt;Los Angeles Times&lt;/em&gt;, March 12, 2007.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://articles.latimes.com/2006/oct/30/health/he-lab30&#34;&gt;“Mark of the vampire: an enzyme that may help prevent brain damage in stroke victims.”&lt;/a&gt; Health: News. &lt;em&gt;Los Angeles Times&lt;/em&gt;, Oct. 30, 2006.&lt;/p&gt;
+&lt;h3 id=&#34;trade-press-and-journals&#34;&gt;trade press and journals&lt;/h3&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://biomedicalcomputationreview.org/content/brain-folding&#34;&gt;“Brain Folding.”&lt;/a&gt; News Bytes. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, Summer 2010, Vol. 6, Issue No. 3.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://biomedicalcomputationreview.org/content/hot-bodies-lure-unseen-specks&#34;&gt;“Hot Bodies a Lure for Unseen Specks.”&lt;/a&gt; News Bytes. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, Summer 2010, Vol. 6, Issue No. 3.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://biomedicalcomputationreview.org/content/synchronizing-cells&#34;&gt;“Synchronizing Cells.”&lt;/a&gt; News Bytes. &lt;em&gt;Biomedical Computation Review&lt;/em&gt;, Spring 2010, Vol. 6, Issue No. 2.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/15/5641&#34;&gt;&amp;ldquo;Profile of Robert W. Mahley.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103, no. 15 (2006): 5641-5643.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/13/4805&#34;&gt;&amp;ldquo;Profile of Michael E. Moseley.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103, no 13 (2006): 4805-4807.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/9/3017&#34;&gt;&amp;ldquo;Profile of Huda Y. Zoghbi.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103, no. 9 (2006): 3017-3019.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/103/5/1165&#34;&gt;&amp;ldquo;Profile of chikashi toyoshima.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 103, no. 5 (2006): 1165-1167.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/46/16547&#34;&gt;&amp;ldquo;Profile of Jeffrey C. Hall.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;  102, no. 46 (2005): 16547-16549.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/43/15283&#34;&gt;&amp;ldquo;Profile of John F. Dewey.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 43 (2005): 15283-15285.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/32/11137&#34;&gt;&amp;ldquo;Profile of Frans BM de Waal.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 32 (2005): 11137-11139.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/27/9435&#34;&gt;&amp;ldquo;Profile of Bruce D. Smith.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no .27 (2005): 9435-9437.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/26/9109&#34;&gt;&amp;ldquo;Profile of Bruce Alberts: the education president.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 26 (2005): 9109-9111.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/23/8086&#34;&gt;&amp;ldquo;Biography of Mark T. Keating.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 23 (2005): 8086-8088.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/23/8077&#34;&gt;&amp;ldquo;Biography of Carol W. Greider.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 23 (2005): 8077-8079.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/21/7415&#34;&gt;&amp;ldquo;Biography of Douglas T. Fearon.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;  102, no. 21 (2005): 7415-7417.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/15/5323&#34;&gt;&amp;ldquo;Biography of Veerabhadran Ramanathan.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;  102, no. 15 (2005): 5323-5325.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. &lt;a href=&#34;http://www.pnas.org/content/102/13/4663&#34;&gt;&amp;ldquo;Biography of George E. Andrews.&amp;rdquo;&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 102, no. 13 (2005): 4663-4665.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More Complete List of Talks</title>
+      <link>http://localhost:1313/academia/site/more-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/more-talks/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This list is mostly just an attempt to keep track of my own talks  (and it&amp;rsquo;s a bit out of date). But if you see something here you&amp;rsquo;re interested in learning more about, feel free to contact me!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;selected-workshops-and-short-courses&#34;&gt;Selected Workshops and Short Courses&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;More fun, less boring, much clearer: Quick tips and tricks for writing about statistics,&amp;rdquo; Emory University American Statistical Association Student Chapter Workshop, October 2020.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Storytelling for Impact,&amp;rdquo; American Statistical Association Council of Sections Leadership Workshop, September 2020.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The Value of P-Values,&amp;rdquo; National Institutes of Health National Institute of Diabetes and Digestive and Kidney Diseases Clinical Studies Working Group Workshop, August 2020.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Quick lessons for communicating and visualizing quantitative information,&amp;rdquo; American Association for Public Opinion Research Conference Short Course, June 2020.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Communicating Quantitative Information Is Hard: Strategies for Success,&amp;rdquo; Women in Data Science Conference Workshop, Washington, DC, March 2020.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Writing About Statistics,&amp;rdquo; Women in Statistics and Data Science Conference Short Course, Bellevue, Washington, October 2019 (with Kristin Sainani, PhD).&lt;/p&gt;
+&lt;h2 id=&#34;invited-talks-and-keynotes&#34;&gt;Invited talks and keynotes&lt;/h2&gt;
+&lt;p&gt;Keynote speaker, “Hacking the News Story,” US Conference On Teaching Statistics, Pennsylvania State University, June 2023.&lt;/p&gt;
+&lt;p&gt;Invited speaker, &amp;ldquo;Brain-Hacking Stats Communication: A Brief Tour,&amp;rdquo; Marvin Zelen Public Symposium, Dana-Farber Harvard Cancer Center, September 2020.&lt;/p&gt;
+&lt;p&gt;Invited speaker, &amp;ldquo;Flawed COVID-19 research: Why statistics is more important than ever,&amp;rdquo; Joint Anesthesiology Grand Rounds Lecture, Weill Cornell Medical College, June 2020.&lt;/p&gt;
+&lt;p&gt;Interviewee, &amp;ldquo;Fact check: Misleading bar graph presents distorted interpretation of black and white murder rates,&amp;rdquo; Reuters Fact Check Team, June 2020.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, &amp;ldquo;Connecting 21st-Century Information to Stone-Age Brains:  Numbers, Uncertainty, Surprise and More,&amp;rdquo; ComSciCon Virginia Tech, February 2020.&lt;/p&gt;
+&lt;p&gt;Invited speaker, &amp;ldquo;Human-Centered Quantitative Communication,&amp;rdquo; Clinical and Translational Science Lecture Series, Virginia Tech and University of Virginia, December 2019.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, &amp;ldquo;Statistical Significance: How we got here and where we&amp;rsquo;re going,&amp;rdquo; Polish Pharmacoeconomics Society Conference, Warsaw, Poland, November 2019.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, &amp;ldquo;Why we should apply human-centered design to statistical communication,&amp;rdquo; Open Statistics / Open Eyes Conference, University of Bologna, Cesena, Italy, September 2019.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, &amp;ldquo;Human-centered design and statistical significance,&amp;rdquo; MuST Conference in Philosophy, Munich, Germany, July 2019.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, &amp;ldquo;Human-Centered Quantitative Communication for Clinicians and Patients,&amp;rdquo; Association of Clinical and Translational Statisticians Annual Meeting, Denver, Colorado, July 2019.&lt;/p&gt;
+&lt;p&gt;President&amp;rsquo;s invited speaker, &amp;ldquo;How we scientists can stop fooling ourselves,&amp;rdquo; Association of University Anesthesiologists Annual Meeting, Montreal, Canada, May 2019.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, &amp;ldquo;Communicating modern statistical ideas to stubborn stone-age brains,&amp;rdquo; Eurostat&amp;rsquo;s New Techniques and Technologies for Statistics Conference, Brussels, Belgium, March 2019.&lt;/p&gt;
+&lt;p&gt;Invited presenter, &amp;ldquo;Statistics &amp;amp; Data Science Communication: Tips, Tricks, and Thoughts for a New Model of Engagement,&amp;rdquo; University of Washington Biostatistics Seminar, October 2018&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Statistics Communication: Thoughts on a New Model of Engagement,” Pew Research Center “Shop Talk” seminar series, Washington, DC, September 2018&lt;/p&gt;
+&lt;p&gt;Plenary speaker, “How (not) to fool yourself with p-values and other statistics,” American Psychological Association Convention, San Francisco, CA, August 2018.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Quantitative Communication: Tips and Tricks,” Applied Biostatistical Sciences Network lecture series at the Michigan Institute for Clinical &amp;amp; Health Research , University of Michigan, Ann Arbor, MI, June 2018.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Understanding and Communicating P-values,” University of Rochester Medical School, Rochester, NY, June 2018.&lt;/p&gt;
+&lt;p&gt;Invited professional night speaker, “How journalists think about statistics &amp;ndash; and how they don’t,” Advanced Placement Statistics Readers’ Conference, Kansas City, MO, June 2018.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, “Communicating 21st-century public opinion research to skeptical stone-age brains,” American Association for Public Opinion Research annual conference, Denver, CO, May 2018.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Why writing about statistics is so hard &amp;ndash; and how to do it anyway,” Washington Statistical Society Seminar Series, Washington, DC, April 2018.&lt;/p&gt;
+&lt;p&gt;Webinar presenter, “Beyond the P-Value,” ExCyte Expert Flow Cytometry professional development series, March 22 2018.&lt;/p&gt;
+&lt;p&gt;Interviewee, “Prediction by the Numbers,” PBS NOVA, 2018.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “How not to fool yourself with p-values (and other statistics),” Distinguished Lecture Series in Educational Neuroscience, Gallaudet University, Washington, DC, January 2018.&lt;/p&gt;
+&lt;p&gt;Keynote speaker, “How not to fool yourself with statistics: Cognitive biases &amp;amp; understanding and communicating p-values,” at “Statistical standards for scientific discovery in linguistics: a practical introduction” conference, Department of Linguistics, University of Zurich, Switzerland, October 4 2017.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “How not to fool yourself with p-values and other statistics,” Center for Multimodal Imaging Seminar Series, National Institute of Mental Health, Bethesda MD, August 2017.&lt;/p&gt;
+&lt;p&gt;Lecturer, “How not to fool yourself with p-values,”  Online Intensive for Brain Science: Imaging and Computation course, June 2017.&lt;/p&gt;
+&lt;p&gt;Invited panelist, “Workshop on Responsible Communication of Basic Biomedical Research: Enhancing Awareness and Avoiding Hype,” Federation of American Societies for Experimental Biology in cooperation with the National Institute of General Medical Sciences (NIGMS), June 2017.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Fooling yourself with p-values and other statistics,” Bioengineering Seminar Series, Fischell Department of Bioengineering, University of Maryland, April 2017.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “How (not) to fool yourself with data,” Open and Reproducible Neuroscience Workshop, National Institute of Mental Health, March 2017.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Problems with P-values,” University of Maryland School of Public Health Grand Rounds, April 2016.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “P-values: Worth an Official Decree?” at Miami University Department of Statistics and Department of Journalism Seminar Series, Oxford, Ohio, March 2016.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “P-Values: Controversies, Misunderstandings, and Abuses,” at George Washington University Department of Epidemiology and Biostatistics Seminar Series, Washington, DC, December 4, 2015.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Statistics Meets Science Journalism,” Cornell University Department of Statistics Seminar Series, November 2015.&lt;/p&gt;
+&lt;p&gt;Special speaker, “Communicating Statistics: P-Value Pitfalls, Sensational Science &amp;amp; the Media,” American Statistical Association Philadelphia Chapter annual spring dinner, March 2015.&lt;/p&gt;
+&lt;p&gt;Invited speaker, “Five problems with p-values as illustrated through five stories about sex,” Data Community DC Lecture Series, Washington DC, December 11, 2014.&lt;/p&gt;
+&lt;p&gt;Invited speaker, “Evidence –B(i)ased Medicine,” Accademia Nazionale di Medicina meeting “Highlights in ginecologia oncologia,” Camogli, Italy, November 28, 2014.&lt;/p&gt;
+&lt;p&gt;Invited speaker, “Statistical Significance: Problems and Controversies,”  Council for Responsible Nutrition annual meeting, Laguna Niguel, November 6, 2014.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “Uncertainty and the P,” U.S. Census Bureau Seminar Series, October 30, 2014.&lt;/p&gt;
+&lt;p&gt;Invited presenter, “The P-Value and Reproducibility,” Laboratory of Cellular and Molecular Biology Seminar Series, National Cancer Institute, National Institutes of Health, October 28, 2014.&lt;/p&gt;
+&lt;p&gt;Guest, NBC’s “TODAY Show,” discussing science of mating in LA Times article “Vying for a soul mate,” December 30, 2008.&lt;/p&gt;
+&lt;h2 id=&#34;selected-professional-service-and-awards&#34;&gt;Selected Professional Service and Awards&lt;/h2&gt;
+&lt;p&gt;Excellence in Statistical Reporting Award, American Statistical Association, 2014.&lt;/p&gt;
+&lt;p&gt;Committee Chair, Working Group for Improving Rigor and Reproducibility for Animal Research, Advisory Committee for the Director of the National Institutes of Health; developed statistical explainer materials and led the Statistical Considerations Committee to develop recommendations, 2019 - 2020.&lt;/p&gt;
+&lt;p&gt;Invited session co-organizer, “The Ethics of Data Communication” (with Liberty Vittert), World Statistics Congress, Kuala Lumpur, Malaysia, August 2019 (accepted).&lt;/p&gt;
+&lt;p&gt;Associate Editor, &lt;em&gt;The American Statistician&lt;/em&gt; Special Issue on Statistical Inference, 2017 - present.&lt;/p&gt;
+&lt;p&gt;Invited author, &lt;a href=&#34;https://www.nih.gov/about-nih/what-we-do/science-health-public-trust/perspectives/science-health-public-trust/tips-communicating-statistical-significance&#34;&gt;“Tips for Communicating Statistical Significance.”&lt;/a&gt; Science, Health, and Public Trust, National Institutes of Health, November 2018.&lt;/p&gt;
+&lt;p&gt;Statistical Advisory Board, STATS.org, Sense about Science USA, 2016 - present.&lt;/p&gt;
+&lt;p&gt;Editorial board for the ASA-CRC Book Series “Statistical Reasoning in Science and Society,” Chapman &amp;amp; Hall, 2015 - present.&lt;/p&gt;
+&lt;p&gt;Invited session co-organizer, “The Good, the Bad, and the Ugly: The Future of Statistics and the Public” (with Liberty Vittert), Joint Statistical Meetings, Vancouver, BC, Canada, July 2018.&lt;/p&gt;
+&lt;p&gt;Invited session co-organizer, “The ergonomics of statistics and data science” (with Liberty Vittert), Joint Statistical Meetings, Vancouver, BC, Canada, July 2018.&lt;/p&gt;
+&lt;p&gt;Special consultant, &lt;em&gt;Nature&lt;/em&gt;, 2016 - 2017&lt;/p&gt;
+&lt;p&gt;Webinar co-presenter, “Communicating statistics to industry and other non-technical audiences” (with Liberty Vittert), American Statistical Association’s Committee on Career Development, December 2017.&lt;/p&gt;
+&lt;p&gt;Co-organizer, “Stats Challenge Wikepedia Editathon” (with Donna Lalonde and Peter Meyer), American Statistical Association, Alexandria VA, November 2017.&lt;/p&gt;
+&lt;p&gt;Invited session co-organizer, “Telling statistical stories and teaching good data sense to the public” (with John Bailer), World Statistics Congress, Marrakech, Morocco, July 2017.&lt;/p&gt;
+&lt;p&gt;Session co-organizer, “The ASA Statement on P-Values and Statistical: Development and Impact” (with Ron Wasserstein), session at the Royal Statistical Society 2016 Conference, Manchester, England, September 5, 2016.&lt;/p&gt;
+&lt;p&gt;Co-organized and presented, “Statistical Tools for Journalists” (with Jonathan Auerbach), DC Science Writers Association and American Geophysical Union, Washington, DC, August 2016.&lt;/p&gt;
+&lt;p&gt;Working group member, &amp;ldquo;Statistical ambassadors and media training,&amp;rdquo; American Statistical Association&amp;rsquo;s presidential initiative, 2016 - 2017.&lt;/p&gt;
+&lt;p&gt;Panel member/speaker, “Statistics Meets Science Journalism: How Jelly Beans Explain Your Sex Life,” for “Statistics and the Media” session, Joint Statistical Meetings, Seattle, WA, August 10, 2015.&lt;/p&gt;
+&lt;p&gt;Co-organizer and speaker, “The Perils of P-Values: How to be Smart when Writing about Statistics” (with Tom Siegrfried), National Association of Science Writers conference, Columbus, OH, October, 2014.&lt;/p&gt;
+&lt;p&gt;Panel member/speaker for “Rising above the noise: Using statistics-based reporting” at the National Association of Science Writers conference, Gainesville, FL, November 2, 2013&lt;/p&gt;
+&lt;p&gt;Group leader/presenter at ONA dCamp D.C. (design and data camp) at the Washington Post, Washington, D.C., May 11, 2013.&lt;/p&gt;
+&lt;p&gt;Panelist, Career panel, University of Texas Medical Branch, March 15, 2011.&lt;/p&gt;
+&lt;p&gt;Full-day workshop co-presenter, “Functional Data Analysis using R” (with James Ramsay), International Meeting of the Psychometric Society, Cagliari, Sardinia, Italy, July 7, 2003.&lt;/p&gt;
+&lt;p&gt;Reviwer, &lt;em&gt;Journal of Clinical Epidemiology&lt;/em&gt;, &lt;em&gt;Nature Methods&lt;/em&gt;, &lt;em&gt;Philosophies&lt;/em&gt;, &lt;em&gt;BMJ Open&lt;/em&gt;, &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, &lt;em&gt;PLOS ONE&lt;/em&gt;, &lt;em&gt;PeerJ&lt;/em&gt;, &lt;em&gt;Journal of the National Cancer Institute&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;selected-conference-presentations&#34;&gt;Selected Conference Presentations&lt;/h4&gt;
+&lt;p&gt;Nuzzo, Regina. &amp;ldquo;Begin Mastering Medical Studies,&amp;rdquo;  American Health Care Journalists Conference, Baltimore, MD, May 2019 (with Tara Haelle and Ishani Ganguli, MD).&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “How to increase statistical literacy by thinking like a journalist.” Presented at the Joint Statistical Meetings, Vancouver, BC, Canada, July 2018.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “Why the media are uncomfortable with uncertainty, and what statistics can do to fix that.” Presented at the World Statistics Congress, Marrakech, Morocco, July 2017.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina, Turner, Paaige, and Vraga, Emily. “Framing and Communicating Scientific Knowledge.” Presented at the Symposium on Statistical Significance, American Statistical Association, Washington, DC, November 2017&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “Statistics and Data Science Communication: Tips and Tricks for a New Model of Engagement.” Presented at the Women in Statistics and Data Science conference, La Jolla, CA, October 2017.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “Ergonomics of Data Analysis in Research: Another lens on research reproducibility.” Presented at the Joint Conference on Biometrics and Biopharmaceutical Statistics, Medical University of Vienna, Vienna, Austria, August 2017.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “The ASA Statement on P-Values and Statistical: Development and Impact.&amp;quot; Presented at the Royal Statistical Society 2016 Conference, Manchester, England, September 2016.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “Problems with P-value Reform: Who can we blame?” Presented at the Joint Statistical Meetings, Chicago, IL, August 2016.&lt;/p&gt;
+&lt;p&gt;Nuzzo, Regina. “Data Journalism: Who needs statisticians?” Presented for the late-breaking session at the Joint Statistical Meetings, Chicago, IL, August 2016.&lt;/p&gt;
+&lt;p&gt;Ramsay, James and Nuzzo, Regina. “Functional Analysis of Music Data.” Presented at the Statistical Society of Canada Annual Meeting, Halifax, Nova Scotia, Canada, June 2003.&lt;/p&gt;
+&lt;p&gt;Ramsay, James and Nuzzo, Regina. “Functional Data Analysis for Pharmacokinetic Data.” Presented at the Institute of Mathematical Statistics Annual Meeting, Banff, Alberta, Canada, July 29, 2002.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

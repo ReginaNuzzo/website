@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Regina Nuzzo</title>
+    <link>http://localhost:1313/academia/site/authors/</link>
+    <description>Recent content in Authors on Regina Nuzzo</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Regina Nuzzo {year}</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/academia/site/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/academia/site/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/authors/admin/</guid>
+      <description>&lt;p&gt;Dr. Regina Nuzzo is a freelance science writer and professor in Washington, DC. After studying engineering as an undergraduate, she earned her &lt;a href=&#34;https://statistics.stanford.edu&#34;&gt;PhD
+in Statistics from Stanford University&lt;/a&gt;. Currently she&amp;rsquo;s a Professor teaching Statistics in American Sign Language at &lt;a href=&#34;https://www.gallaudet.edu&#34;&gt;Gallaudet University&lt;/a&gt;, the world&amp;rsquo;s only university for deaf and hard-of-hearing students, and a part-time Lecturer at Stanford University, where she co-teaches a course for the &lt;a href=&#34;https://med.stanford.edu/master-clinical-informatics-management.html&#34;&gt;Masters in Clinical Informatics Management program&lt;/a&gt; in the School of Medicine.&lt;/p&gt;
+&lt;p&gt;Dr. Nuzzo is also a graduate of &lt;a href=&#34;https://scicom.ucsc.edu&#34;&gt;Science Communication program at the University of
+California-Santa Cruz&lt;/a&gt;. Her science journalism specialties center around data, probability, statistics, and the research process. Her work has
+appeared in &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;Los Angeles Times&lt;/em&gt;, &lt;em&gt;New York Times&lt;/em&gt;, &lt;em&gt;Reader’s Digest&lt;/em&gt;,
+&lt;em&gt;New Scientist&lt;/em&gt;, and &lt;em&gt;Scientific American&lt;/em&gt;, among others. Her feature article on p-values in &lt;em&gt;Nature&lt;/em&gt; earned the American Statistical Association’s 2014 Excellence in Statistical Reporting Award.&lt;/p&gt;
+&lt;p&gt;Dr. Nuzzo has been invited to speak around the world to a variety of audiences
+about her work, such as why we just can&amp;rsquo;t understand p-values, how our brain can fool us during data analysis, what happens when people abuse and misuse statistics, and tips and tricks for communicating anything with numbers and statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maki Naro (Illustrator)</title>
+      <link>http://localhost:1313/academia/site/authors/maki-naro-illustrator/</link>
+      <pubDate>Fri, 12 Oct 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/academia/site/authors/maki-naro-illustrator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
